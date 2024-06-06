@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @salirash
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: salima.rashidova00@gmail.com
 - 😄 Pronouns: she/her
 
